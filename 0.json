@@ -1,7 +1,12 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
-  
+    "lives": [
+        {
+            "name": "tvlive",
+            "type": 0,
+            "url": "https://xhdwc.tk/tvlive.txt",
+            "playerType": 1
         }
     ],
     "sites": [
